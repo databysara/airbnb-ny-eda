@@ -1,2 +1,2 @@
-# airbnb-ny-eda
-EDA of AirBNB in NYC
+# airbnb-eda
+EDA of AirBNB
